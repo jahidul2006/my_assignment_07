@@ -1,0 +1,75 @@
+[
+     {
+       "id": 1,
+       "cover": "https://i.ibb.co.com/SXK7JL2/shanto.jpg",
+       "author": "Nazmul Hasan Shanto",
+       "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
+       "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
+       "country_name": "India",
+       "role": "Batter",
+       "rating": 9.8,
+       "price": "$500,000",
+       "button": "Buy Now"
+     },
+     {
+       "id": 2,
+       "cover": "https://i.ibb.co.com/H49bnnS/Rishad.jpg",
+       "author": "Rishad Hossain",
+       "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
+       "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
+       "country_name": "Pakistan",
+       "role": "Bowler",
+       "rating": 9.5,
+       "price": "$450,000",
+       "button": "Buy Now"
+     },
+     {
+       "id": 3,
+       "cover": "https://i.ibb.co.com/h1mfHdt/mustafiz.jpg",
+       "author": "Mustafizur Rahman",
+       "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
+       "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
+       "country_name": "Bangladesh",
+       "role": "Batter",
+       "rating": 9.7,
+       "price": "$520,000",
+       "button": "Buy Now"
+     },
+     {
+       "id": 4,
+       "cover": "https://i.ibb.co.com/1nfnL0x/Mahmudullah.jpg",
+       "author":"Mahmudullah Riyad",
+       "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
+       "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
+       "country_name": "Bangladesh",
+       "role": "Bowler",
+       "rating": 9.4,
+       "price": "$400,000",
+       "button": "Buy Now"
+     },
+     {
+       "id": 5,
+       "cover": "https://i.ibb.co.com/Dt3TSmL/Taskin.jpg",
+       "author": "Taskin Ahmed",
+       "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
+       "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
+       "country_name": "Bangladesh",
+       "role": "Batter",
+       "rating": 9.6,
+       "price": "$480,000",
+       "button": "Buy Now"
+     },
+     {
+       "id": 6,
+       "cover": "https://i.ibb.co.com/pbkNY8v/Tanzim-sakib.png",
+       "author":"Tanzim Hasan Sakib",
+       "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
+       "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
+       "country_name": "Bangladesh",
+       "role": "Bowler",
+       "rating": 9.9,
+       "price": "$550,000",
+       "button": "Buy Now"
+     }
+   ]
+   
