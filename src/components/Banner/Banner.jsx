@@ -2,6 +2,7 @@ import banner from "./../../assets/bg-shadow.png"
 import cricket from "./../../assets/banner-main.png" 
 import './Banner.css'
 
+
 const Banner = ({claimCoin}) => {
       const claimGift = () => {
           const giftCoin = 60000

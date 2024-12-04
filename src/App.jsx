@@ -3,6 +3,8 @@ import { useState } from 'react'
 import './App.css'
 import Banner from './components/Banner/Banner'
 import Navbar from './components/navbar/Navbar'
+import Players from './components/Players/players'
+
 
 function App() {
 
@@ -17,6 +19,8 @@ function App() {
    <div className=" w-11/12 mx-auto">
    <Navbar totalCoin={totalCoin}> </Navbar>
    <Banner claimCoin= {claimCoin}> </Banner>
+   <Players> </Players>
+   
    </div>
    
     </>

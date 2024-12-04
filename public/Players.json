@@ -5,10 +5,10 @@
        "author": "Nazmul Hasan Shanto",
        "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
        "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
-       "country_name": "India",
+       "country_name": "Bangladesh",
        "role": "Batter",
        "rating": 9.8,
-       "price": "$500,000",
+       "price": "$120,000",
        "button": "Buy Now"
      },
      {
@@ -17,10 +17,10 @@
        "author": "Rishad Hossain",
        "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
        "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
-       "country_name": "Pakistan",
+       "country_name": "Bangladesh",
        "role": "Bowler",
        "rating": 9.5,
-       "price": "$450,000",
+       "price": "$150,000",
        "button": "Buy Now"
      },
      {
@@ -32,7 +32,7 @@
        "country_name": "Bangladesh",
        "role": "Batter",
        "rating": 9.7,
-       "price": "$520,000",
+       "price": "$120,000",
        "button": "Buy Now"
      },
      {
@@ -44,7 +44,7 @@
        "country_name": "Bangladesh",
        "role": "Bowler",
        "rating": 9.4,
-       "price": "$400,000",
+       "price": "$40,000",
        "button": "Buy Now"
      },
      {
@@ -56,7 +56,7 @@
        "country_name": "Bangladesh",
        "role": "Batter",
        "rating": 9.6,
-       "price": "$480,000",
+       "price": "$80,000",
        "button": "Buy Now"
      },
      {
@@ -68,7 +68,7 @@
        "country_name": "Bangladesh",
        "role": "Bowler",
        "rating": 9.9,
-       "price": "$550,000",
+       "price": "$50,000",
        "button": "Buy Now"
      }
    ]
