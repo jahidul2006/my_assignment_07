@@ -19,7 +19,9 @@ function App() {
    <div className=" w-11/12 mx-auto">
    <Navbar totalCoin={totalCoin}> </Navbar>
    <Banner claimCoin= {claimCoin}> </Banner>
+   <div className=" flex ">
    <Players> </Players>
+   </div>
    
    </div>
    

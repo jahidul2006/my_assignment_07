@@ -2,7 +2,7 @@
      {
        "id": 1,
        "cover": "https://i.ibb.co.com/SXK7JL2/shanto.jpg",
-       "author": "Nazmul Hasan Shanto",
+       "author": "Nazmul Shanto",
        "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
        "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
        "country_name": "Bangladesh",
@@ -70,6 +70,34 @@
        "rating": 9.9,
        "price": "$50,000",
        "button": "Buy Now"
-     }
+     },
+    
+     {
+      "id": 7,
+      "cover": "https://i.ibb.co.com/34rTpfk/mashrafemortaza-1200x768.webp",
+      "author":"Mashrafe Mortaza",
+      "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
+      "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
+      "country_name": "Bangladesh",
+      "role": "Batter",
+      "rating": 9.7,
+      "price": "$70,000",
+      "button": "Buy Now"
+    },
+
+
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co.com/6WHx3nQ/mehidy-will-lead-the-side-in-the-odi-leg-of-the-tour.webp",
+      "author":"Mehidy Hasan",
+      "author_img": "https://i.ibb.co.com/fq2cXMN/author.jpg",
+      "country_flag": "https://i.ibb.co.com/Ct4sKzS/Flag.jpg",
+      "country_name": "Bangladesh",
+      "role": "Batter",
+      "rating": 9.2,
+      "price": "$55,000",
+      "button": "Buy Now"
+    }
+
    ]
    
