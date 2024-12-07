@@ -4,6 +4,7 @@ import './App.css'
 import Banner from './components/Banner/Banner'
 import Navbar from './components/navbar/Navbar'
 import Players from './components/Players/players'
+import Footer from './components/Footer/Footer'
 
 
 function App() {
@@ -16,13 +17,13 @@ function App() {
   return (
     <>
   
-   <div className=" w-11/12 mx-auto">
+   <div className=" md:w-11/12 mx-auto">
    <Navbar totalCoin={totalCoin}> </Navbar>
    <Banner claimCoin= {claimCoin}> </Banner>
    <div className=" flex ">
    <Players> </Players>
    </div>
-   
+    <Footer> </Footer>
    </div>
    
     </>

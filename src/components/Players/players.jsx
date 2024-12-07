@@ -12,7 +12,7 @@ const Players = () => {
      } ,[])
 
      return (
-          <div className="flex grid md:grid-cols-4 grid-cols-1 mt-10 mx-auto main">
+          <div className=" grid md:grid-cols-4 grid-cols-1 mt-10 mx-auto main">
                
                {
                     players.map(player => <Player 

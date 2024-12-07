@@ -9,7 +9,7 @@ const Navbar = ({totalCoin}) => {
 
      return (
 
-          <div className=" fixed shadow-lg  z-50 top-0 w-11/12   bg-stone-300/50 flex  justify-between">
+          <div className=" fixed shadow-lg  z-50 top-0 md:w-11/12 w-full  bg-stone-300/50 flex  justify-between">
           <img className="h-20" src= {profile} alt="" />
         <div className=" flex  font-semibold text-md text-neutral-800">
         <button  className=" mr-4 p-3 md:block hidden "> Home  </button>
