@@ -5,6 +5,12 @@ const Player = ({ player }) => {
      
      return (
           <div className='border-[#1313131A] border-2 m-6 p-4 rounded-xl'>
+
+              
+
+              
+
+
                <img className='rounded-xl h-52 w-80 ' src={cover} alt="" />
                <div className="">
                     <div className=" flex mt-3">
@@ -14,7 +20,7 @@ const Player = ({ player }) => {
                     <div className="flex  ">
                          <img src={country_flag} alt="" className="h-8  " />
                          <h3 className=" ml-2 text-md text-gray-500">{country_name}</h3>
-                         <span className='md:ml-16 ml-24 px-2 py-1 rounded-xl bg-slate-100'>{role}</span>
+                         <span className='md:ml-16 ml-24 px-2 py-1 text-gray-700 rounded-xl  bg-slate-50'>{role}</span>
                     </div>
                </div>
 
@@ -30,6 +36,7 @@ const Player = ({ player }) => {
                </div>
                
           </div>
+         
      );
 };
 

@@ -9,7 +9,7 @@
        "role": "Batter",
        "rating": 9.8,
        "price": "$120,000",
-       "button": "Buy Now"
+       "button": "Select"
      },
      {
        "id": 2,
@@ -21,7 +21,7 @@
        "role": "Bowler",
        "rating": 9.5,
        "price": "$150,000",
-       "button": "Buy Now"
+       "button": "Select"
      },
      {
        "id": 3,
@@ -33,7 +33,7 @@
        "role": "Batter",
        "rating": 9.7,
        "price": "$120,000",
-       "button": "Buy Now"
+       "button": "Select"
      },
      {
        "id": 4,
@@ -45,7 +45,7 @@
        "role": "Bowler",
        "rating": 9.4,
        "price": "$40,000",
-       "button": "Buy Now"
+       "button": "Select"
      },
      {
        "id": 5,
@@ -57,7 +57,7 @@
        "role": "Batter",
        "rating": 9.6,
        "price": "$80,000",
-       "button": "Buy Now"
+       "button": "Select"
      },
      {
        "id": 6,
@@ -69,7 +69,7 @@
        "role": "Bowler",
        "rating": 9.9,
        "price": "$50,000",
-       "button": "Buy Now"
+       "button": "Select"
      },
     
      {
@@ -82,7 +82,7 @@
       "role": "Batter",
       "rating": 9.7,
       "price": "$70,000",
-      "button": "Buy Now"
+      "button": "Select"
     },
 
 
@@ -96,7 +96,7 @@
       "role": "Batter",
       "rating": 9.2,
       "price": "$55,000",
-      "button": "Buy Now"
+      "button": "Select"
     }
 
    ]
