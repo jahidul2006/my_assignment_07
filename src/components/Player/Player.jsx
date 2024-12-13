@@ -1,12 +1,10 @@
 import PropTypes from 'prop-types';
 
-const Player = ({ player }) => {
+const Player = ({ player, handleSelectToPlayer }) => {
      const {author, cover,country_name, country_flag, author_img, rating, role,price, button } = player
      
      return (
           <div className='border-[#1313131A] border-2 m-6 p-4 rounded-xl'>
-
-              
 
               
 
@@ -31,7 +29,9 @@ const Player = ({ player }) => {
               
                <div className=" flex justify-between">
                     <h3 className="font-semibold">Price :{price}</h3>
-                    <button className='border-2 border-slate-400 px-2 py-1 rounded-xl'>{button}</button>
+                    <button
+                      onClick={ () =>  handleSelectToPlayer ( player)}
+                     className='border-2 border-slate-400 px-2 py-1 rounded-xl'>{button}</button>
 
                </div>
                
@@ -40,8 +40,10 @@ const Player = ({ player }) => {
      );
 };
 
- Player.PropTypes = {
-     player: PropTypes.object.isRequired
+ Player.propTypes = {
+     player: PropTypes.object.isRequired,
+     handleSelectToPlayer : PropTypes.func
+
  }
 
 export default Player;

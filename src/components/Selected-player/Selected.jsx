@@ -3,8 +3,6 @@
 const Selected = () => {
      return (
           <div>
-              
-               {/* Navbar Ends */}
                
           </div>
      );
